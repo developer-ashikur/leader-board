@@ -1,0 +1,31 @@
+body{
+    background-color: #f7f7f7;
+}
+.players{}
+.players img{
+    width: 80px;
+}
+.blog-section img{
+    width: 250px;
+    margin-right: 1em;
+}
+.my-card{
+    border: 0;
+}
+.my-card img{
+    width: 100px;
+}
+.time{
+    background-color: rgba(253, 92, 92, .4);
+    padding: 5px;
+    border-radius: 1000px;
+}
+.card{
+    border-radius: 10px;
+}
+.my-nav{
+    background-color: #7757ff;
+}
+.my-nav img{
+    width: 40px;
+}
